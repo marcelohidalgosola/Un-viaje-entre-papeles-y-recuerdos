@@ -1,1 +1,3 @@
 # Un-viaje-entre-papeles-y-recuerdos
+El proceso de preparación para un viaje es un arte en sí mismo, similar a codificar un proyecto. Al igual que en la gestión de un repositorio, donde cada commit debe ser preciso y documentado, así nos aproximamos a organizar nuestra aventura. Desde la colección de tickets físicos y prints de reservas hasta la minuciosa planificación del equipaje, cada elemento se archivaba meticulosamente. Este enfoque sistemático no solo prepara para el viaje sino que también construye la anticipación, haciendo del viaje mismo una experiencia más rica y organizada.
+https://marcelohidalgosola.com.ar/posando-en-versailles-entre-tickets-y-valijas/
